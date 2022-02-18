@@ -7,6 +7,7 @@ bash script to clean old branches from old repos
 - Add the 'git-clean-repo.sh' file to the same folder you used to create the '.bashrc' file
 - Edit the '.bashrc' file and insert the command line: `alias clean-repo='~/git-clean-repo.sh'`
 - Save the file and you're ready to use it!
+- All you must do is open terminal into the desired repository and run the command `clean-repo`!
 
 
 ## como usar (PT-BR)
@@ -15,3 +16,4 @@ bash script to clean old branches from old repos
 - Adicione o arquivo 'git-clean-repo.sh' à mesma pasta que você usou para criar o arquivo '.bashrc';
 - Edite o arquivo '.bashrc' e adicione a linha de comando: `alias clean-repo='~/git-clean-repo.sh'`;
 - Salve o arquivo e você está pronto para usá-lo!
+- Basta abrir o terminal no repositório desejado e executar o comando `clean-repo`!
